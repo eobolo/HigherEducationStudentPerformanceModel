@@ -27,5 +27,5 @@ For the traditional ML section, I focused on **Support Vector Machines (SVM)**. 
 In conclusion, most of these performed well, except for the fourth model (adagrad) that performed poorly under a controlled environment but has the tendency to perform better if some value of the controlled environment were fine tuned, after careful evaluation of it's history  but the best-performing model was the **Neural Network First Model**, which had an edge over the others in terms of loss reduction, overall metrics, and confusion matrix results.
 
 
-# Video Presntation
+# Video Presentation
 Here is a link to the video presentation [Youtube](https://youtu.be/KXc7wgUH644)
