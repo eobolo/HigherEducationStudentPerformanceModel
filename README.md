@@ -1,3 +1,5 @@
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Workflow-blue.svg) ![Python](https://img.shields.io/badge/Python-90%25-green.svg) ![Contributors](https://img.shields.io/badge/contributors-1-orange.svg)  
+
 # Problem Statement:
 Predicting student academic performance using Machine Learning (ML) Models is crucial for identifying student at risk early. Accurate models trained on previously existly performance dataset of students can help institutions provide timely interventions to improve student success. However, challenges remain in optimizing these predictive models for different educational contexts.
 
